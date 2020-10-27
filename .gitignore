@@ -141,4 +141,5 @@ dmypy.json
 !.vscode/extensions.json
 
 # Misc
-.DS_Store
+*.DS_Store
+*.ttl
