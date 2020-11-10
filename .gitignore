@@ -143,3 +143,5 @@ dmypy.json
 # Misc
 *.DS_Store
 *.ttl
+datasets/gensim/*
+datasets/glove/*
