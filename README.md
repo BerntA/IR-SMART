@@ -123,12 +123,14 @@ The other ipynb-files, contain an alternative larger index(`indexer.ipynb`), tes
 ## Result
 The achieved accuracy scores has been summarized in the table below:
 
-|      Method      | Accuracy | NDCG@5 | NDCG@10 |
-|:----------------:|:--------:|:------:|:-------:|
-|  Strict Baseline |          |        |         |
-| Lenient Baseline |          |        |         |
-|  Strict Advanced |          |        |         |
-| Lenient Advanced |          |        |         |
+|         Method        | Accuracy | NDCG@5 | NDCG@10 |
+|:---------------------:|:--------:|:------:|:-------:|
+|    Strict Baseline    |   0.492  |  0.237 |  0.323  |
+|    Lenient Baseline   |   0.492  |  0.312 |  0.414  |
+|    Strict Word2Vec    |   0.522  |  0.280 |  0.367  |
+|    Lenient Word2Vec   |   0.522  |  0.364 |  0.455  |
+| Strict LTR(pointwise) |   0.776  |  0.731 |  0.754  |
+| Lenient LTR(pointwise |   0.776  |  0.753 |  0.780  |
 
 </br>
 
