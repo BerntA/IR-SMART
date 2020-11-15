@@ -1,4 +1,4 @@
-# IR-SMART <br> Information Retrieval - Semantic Answer Type Prediction
+# IR-SMART (TEAM-002) <br> Information Retrieval - Semantic Answer Type Prediction
 
 
 
@@ -12,7 +12,6 @@
   * [Dataset](#dataset)
   * [File Structure](#file-structure)
   * [Final Steps](#final-steps)
-* [Usage](#usage)
 * [Results](#result)
 * [Contributors and License](#contributors)
 * [Contact](#contact)
@@ -110,12 +109,6 @@ The other ipynb-files, contain an alternative larger index(`indexer.ipynb`), tes
 
 * Execute all cells within `evaluation.ipynb`, this will perform the evaluation using both the baseline and advanced implementation.
   * PS: Uncomment the `convertGlovetoGensim()` function call in cell 5, this is necessary to allow GenSim to parse the GloVe embedding-file.
-
-
-</br>
-
-<!-- USAGE EXAMPLES -->
-## Usage
 
 </br>
 
