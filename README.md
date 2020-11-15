@@ -85,6 +85,7 @@ Once all the files has been downloaded, extract them and place them in such a wa
  ┃   ┗ 📜glove.6B.50d.txt  ##
  ┣ 📂results
  ┃ ┣ 📜advanced.csv
+ ┃ ┣ 📜advanced_word2vec.csv
  ┃ ┣ 📜baseline.csv
  ┃ ┗ 📜test_type_predictions.csv
  ┣ 📜.gitignore
@@ -136,7 +137,7 @@ The achieved accuracy scores has been summarized in the table below:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 </br>
 
